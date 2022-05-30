@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.9.5-next.1
+
+### Patch Changes
+
+- feb4e8de07: Fix EntityPage tab scrolling overflow bug on Firefox
+
 ## 0.9.5-next.0
 
 ### Patch Changes
